@@ -1,5 +1,4 @@
 # CNC Control - Fase 1 Simulator +  Arquitectura
-
 Proyecto de control CNC con Java - Diseño y simulación
 
 ## Fase 1 - Simulator UI
